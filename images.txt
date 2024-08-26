@@ -1,9 +1,3 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-docker.io/mirrorgooglecontainers/defaultbackend-amd64:1.4
-kubesphere/ks-console:v3.4.1
-mirrorgooglecontainers/defaultbackend-amd64:1.4
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+kubesphere/ks-controller-manager:v3.4.1
