@@ -1,4 +1,4 @@
 nginx
 #支持私库
-kubesphere/ks-console:v3.4.1
-kubesphere/ks-apiserver:v3.4.1
+csiplugin/snapshot-controller:v4.0.0
+mirrorgooglecontainers/defaultbackend-amd64:1.4
