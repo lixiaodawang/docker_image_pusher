@@ -1,2 +1,1 @@
-kubesphere/builder-base:v3.2.2
-jenkins/inbound-agent:4.10-2
+openebs/linux-utils:3.3.0
