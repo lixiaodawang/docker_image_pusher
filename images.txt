@@ -1,1 +1,1 @@
-calico/node:v3.23.2
+calico/pod2daemon-flexvol:v3.23.2
