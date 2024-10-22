@@ -1,1 +1,1 @@
-calico/cni:v3.23.2
+calico/node:v3.23.2
