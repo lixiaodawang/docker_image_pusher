@@ -1,1 +1,1 @@
-elasticsearch:7.14.0
+gitlab/gitlab-ce:17.9.7-ce.0
